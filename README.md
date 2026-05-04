@@ -10,9 +10,8 @@ On Ubuntu 16.04 LTS or up:
     jupyter lab
 
 ## Assignments List
-- Value Iteration - [Run online on Google Colab](https://colab.research.google.com/github/HEXcube/ReinfoLearn/blob/master/ValueIteration.ipynb)
-- SARSA & Q-learning - [Run online on Google Colab](https://colab.research.google.com/github/HEXcube/ReinfoLearn/blob/master/SARSAnQlearning.ipynb)
+- Value Iteration - [Run online on Google Colab](https://colab.research.google.com/github/RohanVilloth/ReinfoLearn/blob/master/ValueIteration.ipynb)
+- SARSA & Q-learning - [Run online on Google Colab](https://colab.research.google.com/github/RohanVilloth/ReinfoLearn/blob/master/SARSAnQlearning.ipynb)
 
 ## License
 - Except where otherwise noted, all original content here are released under [MIT license](https://opensource.org/licenses/MIT)
-
